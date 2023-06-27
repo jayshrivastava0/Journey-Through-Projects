@@ -46,7 +46,10 @@ This repository includes Python projects I created during my journey of learning
 * **wine_quality.py**
   * This project predicts the quality of wine based on a variety of factors.
   * I learned about data analysis, machine learning, and scikit-learn.
-
+* **transfer_leanring_cats_dogs.ipynb**
+  * This project uses CIFAR dataset and train the model to classify them accurately.
+  * I learned about Image Classification, Convolution, and pooling.
+    
 ## What I Learned
 
 * I learned the basics of Python syntax and programming.
