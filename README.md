@@ -25,9 +25,9 @@ This repository includes Python projects I created during my journey of learning
 * **Smoke Detection**
   * This project detects smoke in images using a machine learning model.
   * I learned about image classification, machine learning, and OpenCV.
-* **bmsg.py**
-  * This script sends a message to a specific email address.
-  * I learned about the smtplib module and how to send emails using Python.
+* **Fashion_MNIST.ipynb**
+  * This is my model for Fashion_MNIST dataset available in Keras.
+  * I wanted to try fashion data after trying CIFAR data. I learned about image classification and Keras Tuner.
 * **clock.py**
   * This script displays a digital clock on the console.
   * I learned about the time module and how to display the current time using Python.
