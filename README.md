@@ -4,51 +4,8 @@ This repository includes Python projects I created during my journey of learning
 
 ## Projects
 
-* **Date fruit Classification**
-  * This project classifies date fruits based on their images.
-  * I learned about image classification, machine learning, and TensorFlow.
-* **Flight_Price (1)**
-  * This project predicts the price of flights based on a variety of factors.
-  * I learned about data analysis, machine learning, and NumPy.
-* **IBM stocks**
-  * This project tracks the price of IBM stocks over time.
-  * I learned about data analysis, matplotlib, and pandas.
-* **Metal_inflation**
-  * This project tracks the inflation of metal prices over time.
-  * I learned about data analysis, matplotlib, and pandas.
-* **Part1_TensorFlow.ipynb**
-  * This notebook introduces the basics of TensorFlow.
-  * I learned about the TensorFlow API and how to use it to create machine learning models.
-* **Part2_Music_Generation.ipynb**
-  * This notebook generates music using a TensorFlow model.
-  * I learned about the TensorFlow API and how to use it to generate creative content.
-* **Smoke Detection**
-  * This project detects smoke in images using a machine learning model.
-  * I learned about image classification, machine learning, and OpenCV.
-* **Fashion_MNIST.ipynb**
-  * This is my model for Fashion_MNIST dataset available in Keras.
-  * I wanted to try fashion data after trying CIFAR data. I learned about image classification and Keras Tuner.
-* **clock.py**
-  * This script displays a digital clock on the console.
-  * I learned about the time module and how to display the current time using Python.
-* **natural_language_processing.py**
-  * This script performs natural language processing on a text file.
-  * I learned about the nltk module and how to perform natural language processing tasks using Python.
-* **record.py**
-  * This script records the number of steps taken by the user.
-  * I learned about the time module and how to record the number of steps taken using Python.
-* **steps.py**
-  * This script displays the number of steps taken by the user.
-  * I learned about the time module and how to display the number of steps taken using Python.
-* **tic_tac_toe.py**
-  * This game allows two players to play tic-tac-toe.
-  * I learned about the random module and how to create simple games using Python.
-* **wine_quality.py**
-  * This project predicts the quality of wine based on a variety of factors.
-  * I learned about data analysis, machine learning, and scikit-learn.
-* **transfer_leanring_cats_dogs.ipynb**
-  * This project uses CIFAR dataset and train the model to classify them accurately.
-  * I learned about Image Classification, Convolution, and pooling.
+    #### Data - Science (This contains all the projects realted to Data Science)
+    #### Other Projects (This folder contains other projects)
     
 ## What I Learned
 
