@@ -26,5 +26,5 @@ This repository includes Python projects I created during my journey of learning
 
 ## Contact
 
-If you have any questions or feedback, please feel free to contact me at [your email address].
+If you have any questions or feedback, please feel free to contact me at sujay1829@gmail.com 
 
